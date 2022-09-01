@@ -1,4 +1,10 @@
-package DesignPattern.Dp02_Factory;
+package DesignPattern.Dp02_Factory.factory;
+
+import DesignPattern.Dp02_Factory.entity.Animal;
+import DesignPattern.Dp02_Factory.entity.Chicken;
+import DesignPattern.Dp02_Factory.entity.Dog;
+import DesignPattern.Dp02_Factory.entity.Duck;
+import DesignPattern.utils.AnimalEnum;
 
 public class AnimalFactory {
 

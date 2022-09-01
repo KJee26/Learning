@@ -1,7 +1,6 @@
-package DesignPattern.Dp02_Factory;
+package DesignPattern.utils;
 
 public enum AnimalEnum {
-
     DOG,
     DUCK,
     CHICKEN
