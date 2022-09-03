@@ -4,7 +4,7 @@ import DesignPattern.Dp02_Factory.entity.Animal;
 import DesignPattern.Dp02_Factory.entity.Chicken;
 import DesignPattern.Dp02_Factory.entity.Dog;
 import DesignPattern.Dp02_Factory.entity.Duck;
-import DesignPattern.utils.AnimalEnum;
+import DesignPattern.enums.AnimalEnum;
 
 public class AnimalFactory {
 

@@ -1,8 +1,8 @@
 package DesignPattern.Dp03_AbstractFactory.factory;
 
 import DesignPattern.Dp02_Factory.entity.Animal;
-import DesignPattern.utils.AnimalEnum;
-import DesignPattern.utils.FruitEnum;
+import DesignPattern.enums.AnimalEnum;
+import DesignPattern.enums.FruitEnum;
 import DesignPattern.Dp03_AbstractFactory.entity.Apple;
 import DesignPattern.Dp03_AbstractFactory.entity.Banana;
 import DesignPattern.Dp03_AbstractFactory.entity.Fruit;

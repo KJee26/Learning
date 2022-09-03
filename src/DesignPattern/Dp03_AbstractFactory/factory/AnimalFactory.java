@@ -1,11 +1,11 @@
 package DesignPattern.Dp03_AbstractFactory.factory;
 
 import DesignPattern.Dp02_Factory.entity.Animal;
-import DesignPattern.utils.AnimalEnum;
+import DesignPattern.enums.AnimalEnum;
 import DesignPattern.Dp02_Factory.entity.Chicken;
 import DesignPattern.Dp02_Factory.entity.Dog;
 import DesignPattern.Dp02_Factory.entity.Duck;
-import DesignPattern.utils.FruitEnum;
+import DesignPattern.enums.FruitEnum;
 import DesignPattern.Dp03_AbstractFactory.entity.Fruit;
 
 public class AnimalFactory extends AbstractFactory{
